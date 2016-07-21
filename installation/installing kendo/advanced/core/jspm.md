@@ -2,7 +2,7 @@
 
 
 1. Install KendoUI Core by issuing the command:
-`jspm install css kendo-ui`
+`jspm install jquery css kendo-ui`
 
 2. Open `config.js` and add this path mapping:
 
