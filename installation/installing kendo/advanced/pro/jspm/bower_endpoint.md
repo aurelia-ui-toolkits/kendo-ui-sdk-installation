@@ -42,32 +42,9 @@ and use the following responses to the prompts you will get:
   **Note:** Make sure that you reference the correct version of Kendo in the `kendo.*` map.  
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
 
-5. Register the plugin
-Now we're going to register the plugin with Aurelia in your "main.js" or equivalent. The configuration function will be passed a builder object that you can use to configure which KendoUI controls you wish to use. You can use all controls in KendoUI Pro by calling the "pro()" method
-<br>
-    ```
-    export function configure(aurelia) {
-      aurelia.use
-        .standardConfiguration()
-        .developmentLogging()
-        .plugin('aurelia-kendoui-bridge', (kendo) => kendo.pro());
-
-      aurelia.start().then(a => a.setRoot());
-    }
-    ```
-<br>
-6. Now let's open up "app.html" and load KendoUI's CSS files
+5. Now let's open up "app.html" and load KendoUI's CSS files
 
     ```
     <require from="kendo-ui/styles/kendo.common.min.css!"></require>
     <require from="kendo-ui/styles/kendo.bootstrap.min.css!"></require>
     ```
-
-### You are done!
-It is now possible to drop some custom-elements into your DOM. See the other pages on this website for detailed information on how to do this.
-
-**We recommend that you read [these instructions](https://aurelia-ui-toolkits.gitbooks.io/kendoui-bridge-docs/content/what_you_need_to_know.html) in order to get started**
-
-**Loading all wrappers too slow? Lazy loading of wrappers is also possible: [instructions](#/help/docs/app_developers_notes/3._lazy_loading_wrappers)**
-<br>
-***
