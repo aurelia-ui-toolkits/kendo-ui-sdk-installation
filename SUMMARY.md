@@ -15,7 +15,7 @@
                * Webpack
                * RequireJS
            * [Kendo PRO](installation/installing kendo/kendo_pro.md)
-               * JSPM
+               * [JSPM](installation/installing kendo/advanced/pro/jspm.md)
                * Webpack
                * RequireJS
    * [Installing the bridge](installation/installing_the_bridge.md)
