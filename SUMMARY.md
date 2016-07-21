@@ -13,5 +13,4 @@
            * [RequireJS](installation/installing kendo/requirejs.md)
    * Installing the bridge
        * [JSPM](jspm.md)
-       * [RequireJS](requirejs.md)
 
