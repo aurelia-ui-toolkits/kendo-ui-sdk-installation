@@ -10,6 +10,7 @@
        * Advanced (module loader)
            * JSPM
            * Webpack
+           * RequireJS
    * Installing the bridge
        * JSPM
        * Webpack
