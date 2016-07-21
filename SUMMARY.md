@@ -9,7 +9,6 @@
        * [Simple (script tag)](installation/installing kendo/simple_script_tag.md)
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * JSPM
-               * installation/installing kendo/advanced (module loader)/jspm
            * Webpack
            * RequireJS
    * Installing the bridge
