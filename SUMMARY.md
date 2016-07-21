@@ -8,6 +8,7 @@
    * Installing Kendo
        * Simple (script tag)
        * Advanced (module loader)
+           * JSPM
    * Installing the bridge
        * JSPM
        * Webpack
