@@ -21,7 +21,6 @@
     }
     ```
 
-  **Note:** you may have to update the version of Kendo when adding these mappings.  
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
 
 5. Install the aurelia-kendoui-bridge and the css plugin
