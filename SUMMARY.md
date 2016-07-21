@@ -10,7 +10,7 @@
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * [JSPM](installation/installing kendo/jspm.md)
            * Webpack
-           * RequireJS
+           * [RequireJS](installation/installing kendo/requirejs.md)
    * Installing the bridge
        * JSPM
        * Webpack
