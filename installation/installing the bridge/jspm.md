@@ -14,4 +14,4 @@
     ```
     
     ### Important
-    Please continue with the [getting started](./getting-started.md) page
+    It is strongly recommended to continue with the [getting started](./getting-started.md) page
