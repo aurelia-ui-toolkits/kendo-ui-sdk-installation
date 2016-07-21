@@ -12,7 +12,7 @@
            * [Webpack](installation/installing kendo/webpack.md)
            * [RequireJS](installation/installing kendo/requirejs.md)
    * Installing the bridge
-       * JSPM
+       * [JSPM](jspm.md)
        * Webpack
        * RequireJS
 
