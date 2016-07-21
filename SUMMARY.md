@@ -10,7 +10,7 @@
            * kendo.all.min.js
            * kendo.custom.min.js
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
-           * Kendo Core
+           * [Kendo Core](installation/installing kendo/kendo_core.md)
                * JSPM
                * Webpack
                * RequireJS
