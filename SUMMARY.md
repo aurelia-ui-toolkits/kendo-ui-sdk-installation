@@ -10,7 +10,6 @@
            * kendo.all.min.js
            * kendo.custom.min.js
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
-           * [JSPM](installation/installing kendo/jspm.md)
            * [Webpack](installation/installing kendo/webpack.md)
            * [RequireJS](installation/installing kendo/requirejs.md)
    * [Installing the bridge](installation/installing_the_bridge.md)
