@@ -17,7 +17,7 @@
            * [Kendo PRO](installation/installing kendo/kendo_pro.md)
                * [JSPM](installation/installing kendo/advanced/pro/jspm.md)
                    * [bower endpoint](installation/installing kendo/advanced/pro/jspm/bower_endpoint.md)
-                   * downloaded ZIP
+                   * [downloaded ZIP](installation/installing kendo/advanced/pro/jspm/downloaded_zip.md)
                * Webpack
                * RequireJS
    * [Installing the bridge](installation/installing_the_bridge.md)
