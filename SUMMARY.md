@@ -7,7 +7,7 @@
    * [Choosing the installation method](installation/choosing the installation method.md)
    * Installing Kendo
        * [Simple (script tag)](installation/installing kendo/simple_script_tag.md)
-       * Advanced (module loader)
+       * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * JSPM
            * Webpack
            * RequireJS
