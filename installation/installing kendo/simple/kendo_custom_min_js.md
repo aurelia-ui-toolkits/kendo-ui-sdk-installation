@@ -10,12 +10,17 @@ Telerik has a nice feature on their website where they allow you to select a set
 5. Scroll to the bottom of the page and decide whether you would like to use Telerik's CDN or if you want to download a javascript file
 
 ### CDN
-Copy the script tags and add them to the `head` section of `index.html`
+1. Copy the script tags and add them to the `head` section of `index.html`
 ![img](http://i.imgur.com/EwnTgY7.png)
+2. Add Kendo styles to your index.html
+```
+  <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.common.min.css">
+  <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.bootstrap.min.css">
+```
 
 
 ### Javascript file
-1. Click on the Download button to download kendo.custom.min.js:
+1. Click on the "Download" button to download kendo.custom.min.js:
 ![img](http://i.imgur.com/c1QiJ4L.png)
 
 2. Create a folder called `kendo-sdk` next to your `src` folder
