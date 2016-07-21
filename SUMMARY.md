@@ -8,4 +8,5 @@
    * Installing Kendo
    * Installing the bridge
        * JSPM
+       * Webpack
 
