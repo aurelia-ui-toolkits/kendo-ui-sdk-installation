@@ -18,5 +18,20 @@ Copy the script tags and add them to the `head` section of `index.html`
 1. Click on the Download button to download kendo.custom.min.js:
 ![img](http://i.imgur.com/c1QiJ4L.png)
 
-
+2. Create a folder called `kendo-sdk` next to your `src` folder
+ ![img](http://i.imgur.com/8UjLOHX.png)
+ 3. Add kendo.custom.min.js to the `kendo-sdk/js/` folder. Also, download the latest Kendo release from the Telerik website ([instructions](./kendo_all_min_js.md)) and extract the following files from the ZIP into the `kendo-sdk` folder:
+   - js/jquery.min.js
+   - the styles folder
+ ![img](http://i.imgur.com/czORt01.png)
+ 7. Open index.html and add the following script tags
+```
+    <script src="kendo-sdk/js/jquery.min.js"></script>
+    <script src="kendo-sdk/js/kendo.custom.min.js"></script>
+```
+and the following `link` tags:
+```
+  <link rel="stylesheet" href="kendo-sdk/styles/kendo.common.min.css">
+  <link rel="stylesheet" href="kendo-sdk/styles/kendo.bootstrap.min.css">
+```
 
