@@ -14,7 +14,7 @@
                * JSPM
                * Webpack
                * RequireJS
-           * Kendo PRO
+           * [Kendo PRO](installation/installing kendo/kendo_pro.md)
                * JSPM
                * Webpack
                * RequireJS
