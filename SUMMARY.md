@@ -6,4 +6,5 @@
 * [Installation](installation/installation.md)
    * [Choosing the installation method](installation/choosing the installation method.md)
    * Installing Kendo
+   * Installing the bridge
 
