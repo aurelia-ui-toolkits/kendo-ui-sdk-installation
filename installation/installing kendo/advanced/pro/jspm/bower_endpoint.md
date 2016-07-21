@@ -18,10 +18,10 @@ and use the following responses to the prompts you will get:
 <br>
 
 3. Run the following command to install the **PRO version of Kendo UI**:
-`jspm install css jquery aurelia-kendoui-bridge kendo-ui=kendo:bower-kendo-ui`
+`jspm install css jquery kendo-ui=kendo:bower-kendo-ui`
 <br>
 
-4. Open `config.js` and add a couple of path mappings:
+4. Open `config.js` and add one path mapping:
 
   ```
   paths: {
@@ -29,7 +29,7 @@ and use the following responses to the prompts you will get:
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*",
     "kendo:*": "jspm_packages/kendo/*",
-    "kendo.*": "jspm_packages/kendo/bower-kendo-ui@2016.1.226+SP1/js/kendo.*.js"    <----
+    "kendo.*": "jspm_packages/kendo/bower-kendo-ui@2016.2.714/js/kendo.*.js"    <----
   },
   "map": {
     "aurelia-bootstrapper": "npm:aurelia-bootstrapper@1.0.0-beta.1",
