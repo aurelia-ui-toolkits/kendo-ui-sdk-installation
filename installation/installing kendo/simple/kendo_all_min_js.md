@@ -1,5 +1,7 @@
 # kendo.all.min.js
 
+Kendo.all.min.js is a bundle of all controls from the Kendo PRO suite. It is 2MB+ in size, which is why we recommend to create a custom bundle of just the controls that you need in your application. Read more about this [here](./kendo.custom.min.js).
+
 You could grab kendo.all.min.js by downloading the latest release from the Telerik website, or you could use Telerik's CDN.
 
 ### Telerik CDN
