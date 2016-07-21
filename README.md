@@ -1,3 +1,1 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![img](https://cloud.githubusercontent.com/assets/2712405/15681616/e3ba4c5c-2727-11e6-9be1-1fbf96ee382c.png)
