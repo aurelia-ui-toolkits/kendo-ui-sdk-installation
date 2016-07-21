@@ -4,7 +4,6 @@
 * [KendoUI SDK](KendoUI SDK/kendoui_sdk.md)
    * [Core vs PRO](KendoUI SDK/core_vs_pro.md)
 * [Installation](installation/installation.md)
-   * [Introduction](installation/introduction.md)
    * [Installing Kendo](installation/installing_kendo.md)
        * [Simple (script tag)](installation/installing kendo/simple_script_tag.md)
            * [kendo.all.min.js](installation/installing kendo/simple/kendo_all_min_js.md)
