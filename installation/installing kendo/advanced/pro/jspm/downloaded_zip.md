@@ -1,7 +1,7 @@
 # Downloaded ZIP
 
 1. Download the Kendo ZIP from Telerik's website ([instructions](../../simple/kendo_all_min_js)).
-1. Create a `kendo-sdk` folder in the root (at the same level as the src folder)
+2. Create a `kendo-sdk` folder in the root (at the same level as the src folder)
 ![img](http://i.imgur.com/HefXpuN.png)
 3. Extract the `js` and `styles` folder from the ZIP into the `kendo-sdk` folder
 4. Open `config.js` and add two path mappings:
