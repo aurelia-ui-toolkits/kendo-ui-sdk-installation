@@ -6,7 +6,7 @@
 * [Installation](installation/installation.md)
    * [Choosing the installation method](installation/choosing the installation method.md)
    * Installing Kendo
-       * Simple
+       * Simple (script tag)
        * Advanced (module loader)
    * Installing the bridge
        * JSPM
