@@ -16,7 +16,7 @@
                * RequireJS
            * [Kendo PRO](installation/installing kendo/kendo_pro.md)
                * [JSPM](installation/installing kendo/advanced/pro/jspm.md)
-                   * bower endpoint
+                   * [bower endpoint](installation/installing kendo/advanced/pro/jspm/bower_endpoint.md)
                    * downloaded ZIP
                * Webpack
                * RequireJS
