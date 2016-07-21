@@ -7,6 +7,7 @@
    * [Choosing the installation method](installation/choosing the installation method.md)
    * Installing Kendo
        * Simple
+       * Advanced (module loader)
    * Installing the bridge
        * JSPM
        * Webpack
