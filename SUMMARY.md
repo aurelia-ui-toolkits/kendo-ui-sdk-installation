@@ -9,4 +9,5 @@
    * Installing the bridge
        * JSPM
        * Webpack
+       * RequireJS
 
