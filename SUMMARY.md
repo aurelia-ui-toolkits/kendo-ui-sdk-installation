@@ -5,7 +5,7 @@
    * [Core vs PRO](KendoUI SDK/core_vs_pro.md)
 * [Installation](installation/installation.md)
    * [Introduction](installation/choosing the installation method.md)
-   * Installing Kendo
+   * [Installing Kendo](installation/installing_kendo.md)
        * [Simple (script tag)](installation/installing kendo/simple_script_tag.md)
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * [JSPM](installation/installing kendo/jspm.md)
