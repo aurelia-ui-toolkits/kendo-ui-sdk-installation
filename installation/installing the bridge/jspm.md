@@ -12,3 +12,6 @@
       aurelia.start().then(a => a.setRoot());
     }
     ```
+    
+    ### Important
+    Please continue with the [getting started](./getting-started.md) page
