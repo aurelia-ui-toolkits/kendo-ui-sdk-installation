@@ -24,5 +24,5 @@
        * [JSPM](installation/installing the bridge/jspm.md)
        * [Webpack](installation/installing the bridge/webpack.md)
        * [RequireJS](installation/installing the bridge/requirejs.md)
-       * after
+       * [after](installation/installing the bridge/after.md)
 
