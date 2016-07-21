@@ -7,6 +7,7 @@
    * [Introduction](installation/choosing the installation method.md)
    * [Installing Kendo](installation/installing_kendo.md)
        * [Simple (script tag)](installation/installing kendo/simple_script_tag.md)
+           * kendo.all.min.js
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * [JSPM](installation/installing kendo/jspm.md)
            * [Webpack](installation/installing kendo/webpack.md)
