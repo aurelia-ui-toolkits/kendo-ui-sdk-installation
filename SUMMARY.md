@@ -9,6 +9,7 @@
        * Simple (script tag)
        * Advanced (module loader)
            * JSPM
+           * Webpack
    * Installing the bridge
        * JSPM
        * Webpack
