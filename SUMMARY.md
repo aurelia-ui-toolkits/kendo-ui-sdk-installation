@@ -14,5 +14,5 @@
    * Installing the bridge
        * [JSPM](jspm.md)
        * [Webpack](webpack.md)
-       * RequireJS
+       * [RequireJS](requirejs.md)
 
