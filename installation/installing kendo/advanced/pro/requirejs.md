@@ -5,12 +5,12 @@
 
 **WARNING: If you --save or --save-dev then your password will be visible in package.json**
 2. Install jquery: `npm install jquery --save`
-2. Add the following stylesheets to the `head` section of `index.html:
+3. Add the following stylesheets to the `head` section of `index.html:
 ```html
   <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
   <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.default.min.css">
 ```
-3. Open `aurelia_project/aurelia.json` and append the following configuration to the `dependencies` section of the `vendor-bundle`:
+4. Open `aurelia_project/aurelia.json` and append the following configuration to the `dependencies` section of the `vendor-bundle`:
 ```json
   "jquery",
   {
