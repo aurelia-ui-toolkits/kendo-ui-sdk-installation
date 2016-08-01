@@ -7,7 +7,7 @@ You could grab kendo.all.min.js by downloading the latest release from the Teler
 ### Telerik CDN
 Add the following tags to `<head>` section of index.html
 
-```
+```html
   <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.common.min.css">
   <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.bootstrap.min.css">
 
@@ -34,12 +34,12 @@ Add the following tags to `<head>` section of index.html
    - the styles folder
  ![img](http://i.imgur.com/Up4Gduf.png)
  7. Open index.html and add the following script tags
-```
+```html
     <script src="kendo-sdk/js/jquery.min.js"></script>
     <script src="kendo-sdk/js/kendo.all.min.js"></script>
 ```
 and the following `link` tags:
-```
+```html
   <link rel="stylesheet" href="kendo-sdk/styles/kendo.common.min.css">
   <link rel="stylesheet" href="kendo-sdk/styles/kendo.bootstrap.min.css">
 ```
