@@ -11,7 +11,7 @@
        * [Advanced (module loader)](installation/installing kendo/advanced_module_loader.md)
            * [Kendo Core](installation/installing kendo/kendo_core.md)
                * [JSPM](installation/installing kendo/advanced/core/jspm.md)
-               * [Webpack](installation/installing kendo/advanced/webpack.md)
+               * [Webpack](installation/installing kendo/advanced/core/webpack.md)
                * [RequireJS](installation/installing kendo/advanced/core/requirejs.md)
            * [Kendo PRO](installation/installing kendo/kendo_pro.md)
                * [JSPM](installation/installing kendo/advanced/pro/jspm.md)
