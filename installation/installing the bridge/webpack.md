@@ -15,3 +15,14 @@
   <require from="aurelia-kendoui-bridge/grid/grid"></require>
   <require from="aurelia-kendoui-bridge/grid/col"></require>
 ```
+5. open main.js and register the plugin:
+    ```
+    export function configure(aurelia) {
+      aurelia.use
+        .standardConfiguration()
+        .developmentLogging()
+        .plugin('aurelia-kendoui-bridge');
+
+      aurelia.start().then(a => a.setRoot());
+    }
+    ```
