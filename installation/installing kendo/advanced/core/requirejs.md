@@ -1,4 +1,4 @@
-# Webpack
+# RequireJS (aurelia-cli)
 
 1. Install kendo-core and jquery: `npm install kendo-ui-core jquery --save`
 2. Add the following stylesheets to the `head` section of `index.html:
