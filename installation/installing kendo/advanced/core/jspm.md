@@ -6,7 +6,7 @@
 
 2. Open `config.js` and add this path mapping:
 
-  ```
+  ```javascript
   paths: {
     "*": "dist/*",
     "github:*": "jspm_packages/github/*",
@@ -25,7 +25,7 @@
 
 3. Now let's open up "app.html" and load Kendo's CSS files
 
-```
+```html
 <require from="kendo-ui/styles/kendo.common.min.css!"></require>
 <require from="kendo-ui/styles/kendo.bootstrap.min.css!"></require>
 ```
