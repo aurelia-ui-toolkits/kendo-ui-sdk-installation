@@ -11,9 +11,9 @@
 ```
 3. Open `main.js` and register the plugin
 
-```diff
+```javascript
   aurelia.use
     .standardConfiguration()
     .feature('resources')
-+    .plugin('aurelia-kendoui-bridge');
+&&&    .plugin('aurelia-kendoui-bridge');
 ```
