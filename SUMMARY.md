@@ -18,7 +18,7 @@
                    * [bower endpoint](installation/installing kendo/advanced/pro/jspm/bower_endpoint.md)
                    * [downloaded ZIP](installation/installing kendo/advanced/pro/jspm/downloaded_zip.md)
                * [Webpack](installation/installing kendo/advanced/pro/webpack.md)
-               * [RequireJS](installation/installing kendo/advanced/pro/requirejs.md)
+               * [Aurelia-CLI](installation/installing kendo/advanced/pro/requirejs.md)
    * [Installing the bridge](installation/installing_the_bridge.md)
        * [JSPM](installation/installing the bridge/jspm.md)
        * [Webpack](installation/installing the bridge/webpack.md)
