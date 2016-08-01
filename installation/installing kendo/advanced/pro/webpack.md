@@ -8,5 +8,5 @@
     ```
 3. Add the following import to `main.js`:
   ```javascript
-  import "kendo-ui-core";
+  import "kendo";
   ```
