@@ -15,5 +15,5 @@
   aurelia.use
     .standardConfiguration()
     .feature('resources')
-&&&    .plugin('aurelia-kendoui-bridge');
+    .plugin('aurelia-kendoui-bridge');
 ```
