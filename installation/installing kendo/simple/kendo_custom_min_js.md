@@ -13,7 +13,7 @@ Telerik has a nice feature on their website where they allow you to select a set
 1. Copy the script tags and add them to the `head` section of `index.html`
 ![img](http://i.imgur.com/EwnTgY7.png)
 2. Add Kendo styles to your index.html
-```
+```html
   <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.common.min.css">
   <link rel="stylesheet" href="http://kendo.cdn.telerik.com/2016.2.714/styles/kendo.bootstrap.min.css">
 ```
@@ -30,12 +30,12 @@ Telerik has a nice feature on their website where they allow you to select a set
    - the styles folder
  ![img](http://i.imgur.com/czORt01.png)
  7. Open index.html and add the following script tags
-```
+```html
     <script src="kendo-sdk/js/jquery.min.js"></script>
     <script src="kendo-sdk/js/kendo.custom.min.js"></script>
 ```
 and the following `link` tags:
-```
+```html
   <link rel="stylesheet" href="kendo-sdk/styles/kendo.common.min.css">
   <link rel="stylesheet" href="kendo-sdk/styles/kendo.bootstrap.min.css">
 ```
