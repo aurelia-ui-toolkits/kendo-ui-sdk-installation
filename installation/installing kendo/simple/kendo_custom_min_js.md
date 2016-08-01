@@ -1,5 +1,5 @@
 # kendo.custom.min.js
-Telerik has a nice feature on their website where they allow you to select a set of controls and download a minified javascript that only conatins the controls you selected. This is recommended as this file is often smaller in size than kendo.all.min.js.
+Telerik has a nice feature on their website where they allow you to select a set of controls and download a minified javascript that only contains the controls you selected. This is recommended as this file is often smaller in size than kendo.all.min.js.
 
 1. [Log in](https://www.telerik.com/account)
 2. Hover over the Products and Subscription menu, then click Kendo UI Professional
