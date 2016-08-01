@@ -1,6 +1,8 @@
 # Webpack
 
-1. Follow [these instructions](http://docs.telerik.com/kendo-ui/intro/installation/npm#kendo-ui-professional) which tells you to run `npm install --save git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (`%40` = `@`) and `mypassword` with your password
+1. Run `npm install --save git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (`%40` = `@`) and `mypassword` with your password
+
+**WARNING: If you --save or --save-dev then your password will be visible in package.json**
 2. Add the following lines to the `head` section of `index.html`:
     ```html
     <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
