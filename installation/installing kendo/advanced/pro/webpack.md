@@ -6,3 +6,7 @@
     <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
     <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.default.min.css">
     ```
+3. Add the following import to `main.js`:
+  ```javascript
+  import "kendo-ui-core";
+  ```
