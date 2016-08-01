@@ -15,7 +15,7 @@
   }
 ```
 
-Loading Kendo controls can be done as follows:
+Kendo controls can be loaded as follows:
 ```javascript
 import * as $ from 'jquery';
 import 'kendo-ui-core/js/kendo.button';
