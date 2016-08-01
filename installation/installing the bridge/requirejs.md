@@ -20,3 +20,6 @@
     .plugin('aurelia-kendoui-bridge');
 ```
 
+### Important
+It is strongly recommended to continue with the [getting started](./getting-started.md) page
+
