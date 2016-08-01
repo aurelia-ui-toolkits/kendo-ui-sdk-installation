@@ -11,7 +11,7 @@
 }
 ```
 
-3. While still in the `aurelia.json` file, change the `stub` property of the `text` plugin to false:
+3. While still in the `aurelia.json` file, change the `stub` property of the `text` plugin to `false`:
    ```json
    {
     "name": "text",
