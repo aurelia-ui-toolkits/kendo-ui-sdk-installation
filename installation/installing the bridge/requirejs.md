@@ -23,14 +23,17 @@
   }
   ```
 
-3. Open `main.js` and register the plugin
+4. open main.js and register the plugin:
+    ```
+    export function configure(aurelia) {
+      aurelia.use
+        .standardConfiguration()
+        .developmentLogging()
+        .plugin('aurelia-kendoui-bridge');
 
-  ```javascript
-  aurelia.use
-    .standardConfiguration()
-    .feature('resources')
-    .plugin('aurelia-kendoui-bridge');
-```
+      aurelia.start().then(a => a.setRoot());
+    }
+    ```
 
 ### Important
 It is strongly recommended to continue with the [getting started](./getting-started.md) page
