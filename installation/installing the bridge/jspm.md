@@ -13,5 +13,5 @@
     }
     ```
     
-    ### Important
-    It is strongly recommended to continue with the [getting started](./getting-started.md) page
+### Important
+It is strongly recommended to continue with the [getting started](./getting-started.md) page
