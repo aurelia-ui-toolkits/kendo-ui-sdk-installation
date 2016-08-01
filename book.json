@@ -1,7 +1,4 @@
 {
-    "plugins": [
-        "-highlight",
-        "code-highlighter"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
