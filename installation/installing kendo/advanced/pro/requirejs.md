@@ -1,6 +1,8 @@
 # Aurelia-CLI
 
-1. Install kendo and jquery: `npm install kendo-ui-core jquery --save`
+
+1. Follow [these instructions](http://docs.telerik.com/kendo-ui/intro/installation/npm#kendo-ui-professional) which tells you to run `npm install --save git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (`%40` = `@`) and `mypassword` with your password
+2. Install jquery: `npm install jquery --save`
 2. Add the following stylesheets to the `head` section of `index.html:
 ```html
   <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
@@ -10,14 +12,14 @@
 ```json
   "jquery",
   {
-    "name": "kendo-ui-core",
-    "path": "../node_modules/kendo-ui-core/"
+    "name": "kendo",
+    "path": "../node_modules/kendo/"
   }
 ```
 
 Kendo controls can be loaded as follows:
 ```javascript
 import * as $ from 'jquery';
-import 'kendo-ui-core/js/kendo.button';
+import 'kendo/js/kendo.button';
 ```
 
