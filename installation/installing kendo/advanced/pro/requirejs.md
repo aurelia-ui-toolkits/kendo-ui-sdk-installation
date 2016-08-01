@@ -1,2 +1,23 @@
 # Aurelia-CLI
 
+1. Install kendo and jquery: `npm install kendo-ui-core jquery --save`
+2. Add the following stylesheets to the `head` section of `index.html:
+```html
+  <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
+  <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.default.min.css">
+```
+3. Open `aurelia_project/aurelia.json` and append the following configuration to the `dependencies` section of the `vendor-bundle`:
+```json
+  "jquery",
+  {
+    "name": "kendo-ui-core",
+    "path": "../node_modules/kendo-ui-core/"
+  }
+```
+
+Kendo controls can be loaded as follows:
+```javascript
+import * as $ from 'jquery';
+import 'kendo-ui-core/js/kendo.button';
+```
+
