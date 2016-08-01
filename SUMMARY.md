@@ -22,6 +22,6 @@
    * [Installing the bridge](installation/installing_the_bridge.md)
        * [JSPM](installation/installing the bridge/jspm.md)
        * [Webpack](installation/installing the bridge/webpack.md)
-       * [RequireJS](installation/installing the bridge/requirejs.md)
+       * [Aurelia-CLI](installation/installing the bridge/requirejs.md)
        * [Getting started](installation/installing the bridge/getting-started.md)
 
