@@ -1,2 +1,2 @@
-# RequireJS
+# Aurelia-CLI
 
