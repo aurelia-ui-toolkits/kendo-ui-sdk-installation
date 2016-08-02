@@ -18,7 +18,7 @@ Add the following tags to `<head>` section of index.html
 
 
 ### Downloading from Telerik website
-1. [Log in](https://www.telerik.com/account)
+1. [Log in](https://www.telerik.com/account) <br><br>
 2. Hover over the Products and Subscription menu, then click Kendo UI Professional
 ![img](http://i.imgur.com/jIggSWt.png)
 3. Click on the Download button
@@ -26,20 +26,20 @@ Add the following tags to `<head>` section of index.html
 4. Click on the "Latest public version" button
 ![img](http://i.imgur.com/HELaUm1.png)
 
- 5. Create a folder called `kendo-sdk` next to your `src` folder
+5. Create a folder called `kendo-sdk` next to your `src` folder
  ![img](http://i.imgur.com/8UjLOHX.png)
- 6. Extract the following files from the ZIP into the `kendo-sdk` folder:
+6. Extract the following files from the ZIP into the `kendo-sdk` folder:
    - js/kendo.all.min.js
    - js/jquery.min.js
    - the styles folder
  ![img](http://i.imgur.com/Up4Gduf.png)
- 7. Open index.html and add the following script tags
-```html
-    <script src="kendo-sdk/js/jquery.min.js"></script>
-    <script src="kendo-sdk/js/kendo.all.min.js"></script>
-```
-and the following `link` tags:
-```html
-  <link rel="stylesheet" href="kendo-sdk/styles/kendo.common.min.css">
-  <link rel="stylesheet" href="kendo-sdk/styles/kendo.bootstrap.min.css">
-```
+7. Open index.html and add the following script tags
+  ```html
+      <script src="kendo-sdk/js/jquery.min.js"></script>
+      <script src="kendo-sdk/js/kendo.all.min.js"></script>
+  ```
+  and the following `link` tags:
+  ```html
+    <link rel="stylesheet" href="kendo-sdk/styles/kendo.common.min.css">
+    <link rel="stylesheet" href="kendo-sdk/styles/kendo.bootstrap.min.css">
+  ```
