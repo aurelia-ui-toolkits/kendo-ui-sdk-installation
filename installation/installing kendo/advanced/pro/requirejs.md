@@ -2,8 +2,9 @@
 
 
 1. Run `npm install git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (url encoded) and `mypassword` with your password
-
+<br><br>
 **WARNING: If you --save or --save-dev then your password will be visible in package.json**
+<br><br>
 2. Install jquery: `npm install jquery --save`
 3. Add the following stylesheets to the `head` section of `index.html:
 ```html
@@ -18,10 +19,9 @@
     "path": "../node_modules/kendo/"
   }
 ```
-
-Kendo controls can be loaded as follows:
-```javascript
-import * as $ from 'jquery';
-import 'kendo/js/kendo.button';
-```
+5.  Kendo controls can be loaded as follows:
+  ```javascript
+  import * as $ from 'jquery';
+  import 'kendo/js/kendo.button';
+  ```
 
