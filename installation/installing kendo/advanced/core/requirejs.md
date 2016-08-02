@@ -15,7 +15,7 @@
   }
 ```
 
-Kendo controls can be loaded as follows:
+4. Kendo controls can be loaded as follows:
 ```javascript
 import * as $ from 'jquery';
 import 'kendo-ui-core/js/kendo.button';
