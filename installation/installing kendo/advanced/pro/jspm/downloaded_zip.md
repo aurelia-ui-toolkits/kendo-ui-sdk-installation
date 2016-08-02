@@ -23,7 +23,6 @@
 
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
 
-
 5. Now let's open up `app.html` and load Kendo's CSS files
 
     ```
