@@ -1,4 +1,11 @@
-# Webpack
+### [Webpack](http://webpack.github.io/)
+
+
+<p align=center>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/15518423/cb5a2252-21ca-11e6-816c-f4bcbc11a505.png"></img>
+ <br><br>
+</p>
+
 1. Install the bridge: `npm install aurelia-kendoui-bridge --save`
 2. Open `webpack.config.js` and add the following to the `coreBundles`
 ```javascript
