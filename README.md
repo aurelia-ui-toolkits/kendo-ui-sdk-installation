@@ -4,7 +4,7 @@ This manual explains how to install Kendo and how to install aurelia-kendoui-bri
 <br>
 <br>
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/15681616/e3ba4c5c-2727-11e6-9be1-1fbf96ee382c.png"></img>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/17491515/f3427378-5d75-11e6-9c0e-b375bbc43390.png"></img>
  <br><br>
 </p>
 
