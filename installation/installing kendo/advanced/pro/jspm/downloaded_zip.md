@@ -1,10 +1,11 @@
 # Downloaded ZIP
 
-1. Download the Kendo ZIP from Telerik's website ([instructions](../../simple/kendo_all_min_js)).
-2. Create a `kendo-sdk` folder in the root (at the same level as the src folder)
+1. Install the css plugin of JSPM: `jspm install css`
+2. Download the Kendo ZIP from Telerik's website ([instructions](../../simple/kendo_all_min_js)).
+3. Create a `kendo-sdk` folder in the root (at the same level as the src folder)
 ![img](http://i.imgur.com/HefXpuN.png)
-3. Extract the `js` and `styles` folder from the ZIP into the `kendo-sdk` folder
-4. Open `config.js` and add two path mappings:
+4. Extract the `js` and `styles` folder from the ZIP into the `kendo-sdk` folder
+5. Open `config.js` and add two path mappings:
 
     ```
     paths: {
@@ -23,7 +24,7 @@
 
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
 
-5. Now let's open up `app.html` and load Kendo's CSS files
+6. Now let's open up `app.html` and load Kendo's CSS files
 
     ```
     <require from="kendo-sdk/styles/kendo.common.min.css!"></require>
