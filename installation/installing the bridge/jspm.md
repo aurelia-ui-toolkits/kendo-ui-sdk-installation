@@ -5,7 +5,7 @@
  <br><br>
 </p>
 
-1. run `jspm install aurelia-kendoui-bridge`
+1. run `jspm install aurelia-kendoui-bridge=github:aurelia-ui-toolkits/aurelia-kendoui-bridge@beta`
 2. open main.js and register the plugin:
     ```
     export function configure(aurelia) {
