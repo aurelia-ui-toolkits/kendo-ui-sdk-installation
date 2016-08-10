@@ -19,7 +19,7 @@ and use the following responses to the prompts you will get:
 
 3. Run the following command to install the **PRO version of Kendo UI**:
 `jspm install css jquery kendo-ui=kendo:bower-kendo-ui`
-<br>
+<br><br>
 
 4. Open `config.js` and add one path mapping:
 
@@ -38,13 +38,17 @@ and use the following responses to the prompts you will get:
     "kendo-ui": "kendo:bower-kendo-ui@2016.1.226+SP1"
   }
   ```
+<br><br>
 
   **Note:** Make sure that you reference the correct version of Kendo in the `kendo.*` map.  
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
-
+<br><br>
 5. Now let's open up "app.html" and load KendoUI's CSS files
 
     ```
     <require from="kendo-ui/styles/kendo.common.min.css!"></require>
     <require from="kendo-ui/styles/kendo.bootstrap.min.css!"></require>
     ```
+<br><br>
+***
+***
