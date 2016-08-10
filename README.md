@@ -1,7 +1,6 @@
 ### Installation
 This manual explains how to install **[KendoUI](http://www.telerik.com/kendo-ui)** and how to install **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)**. Pick one installation method for the installation of KendoUI and one for the installation of the bridge.
 
-<br>
 
 ### _Important note_
 
