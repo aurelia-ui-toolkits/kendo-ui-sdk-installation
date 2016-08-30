@@ -21,8 +21,9 @@ and use the following responses to the prompts you will get:
 `jspm install css jquery kendo-ui=kendo:bower-kendo-ui`
 <br><br>
 
-4. Open `config.js` and add one path mapping:
-
+4. Open `config.js` and add one path mapping:  
+  **Make sure that you reference the correct version of Kendo in the `kendo.*` map!**   
+  
   ```
   paths: {
     "*": "dist/*",
@@ -38,10 +39,7 @@ and use the following responses to the prompts you will get:
     "kendo-ui": "kendo:bower-kendo-ui@2016.1.226+SP1"
   }
   ```
-<br><br>
-
-  **Note:** Make sure that you reference the correct version of Kendo in the `kendo.*` map.  
-  **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
+  **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4" 
 <br><br>
 5. Now let's open up "app.html" and load KendoUI's CSS files
 
