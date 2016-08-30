@@ -4,8 +4,8 @@
 1. Install KendoUI Core by issuing the command:
 `jspm install jquery css kendo-ui`
 
-2. Open `config.js` and add this path mapping:
-
+2. Open `config.js` and add this path mapping:  
+  **Make sure that you reference the correct version of Kendo in the `kendo.*` map!**  
   ```javascript
   paths: {
     "*": "dist/*",
@@ -20,7 +20,6 @@
   }
   ```
 
-  **Note:** Make sure that you reference the correct version of Kendo in the `kendo.*` map.  
   **Note:** old versions of Kendo require a jquery.min map that is the equivalent of the jquery map: "jquery.min": "github:components/jquery@2.1.4"
 
 3. Now let's open up "app.html" and load Kendo's CSS files
