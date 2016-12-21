@@ -25,3 +25,4 @@
   import 'kendo/js/kendo.button';
   ```
 
+6. **Warning**: The error you get during the tracing process of `au run` is expected and harmless. More can be read in [this issue](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/issues/660)
