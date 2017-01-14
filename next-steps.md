@@ -1,4 +1,4 @@
-# Getting started
+# Next steps
 
 You've made it this far. Kendo and the aurelia-kendoui-bridge are now installed, but before you get started please read the following:
 
