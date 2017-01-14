@@ -7,8 +7,7 @@ This manual explains how to install **[KendoUI](http://www.telerik.com/kendo-ui)
 The reference to **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)** points to NPM registry (as shown below) 
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/19872599/07dfa14a-9f91-11e6-820d-4e8ac4781843.png"></img>
- <br><br>
+  <img src="https://cloud.githubusercontent.com/assets/2712405/21956454/188c461c-da4f-11e6-82a1-a5fa016fdbad.png"></img>
 </p>
 
 
