@@ -8,8 +8,6 @@ The reference to **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aureli
 
 <p align=center>
   <img src="https://cloud.githubusercontent.com/assets/2712405/21958705/79de6d90-da82-11e6-8ba1-1fa6da6091ee.png"></img>
- <br><br>
-Image 3
 </p>
 
 
