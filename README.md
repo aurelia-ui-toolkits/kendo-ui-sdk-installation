@@ -10,6 +10,7 @@ The reference to **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aureli
   <img src="https://cloud.githubusercontent.com/assets/2712405/21956454/188c461c-da4f-11e6-82a1-a5fa016fdbad.png"></img>
 </p>
 
+<p>&nbsp;</p>
 
 **Note:** Use the console command
 ```
