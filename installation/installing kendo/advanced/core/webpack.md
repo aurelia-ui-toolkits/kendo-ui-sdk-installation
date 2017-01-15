@@ -1,4 +1,4 @@
-# Webpack
+# [Webpack module bundler](https://webpack.github.io/)
 
 1. Install kendo-core and jquery: `npm install kendo-ui-core jquery --save`
 <br><br>
