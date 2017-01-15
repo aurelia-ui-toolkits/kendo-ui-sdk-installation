@@ -1,4 +1,4 @@
-# [JSPM](http://jspm.io/)
+# [JSPM Frictionless browser package management](http://jspm.io/)
 
 
 1. Install KendoUI Core by issuing the command:
