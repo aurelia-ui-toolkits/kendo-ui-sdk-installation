@@ -1,4 +1,4 @@
-# Aurelia-CLI
+# [Aurelia-CLI](https://github.com/aurelia/cli)
 
 1. Install kendo-core and jquery: `npm install kendo-ui-core jquery --save`
 <br><br>
