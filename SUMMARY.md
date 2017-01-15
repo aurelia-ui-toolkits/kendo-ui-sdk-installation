@@ -7,7 +7,7 @@
         * [Simple \(script tag\)](installation/installing kendo/simple_script_tag.md)
             * [kendo.all.min.js](installation/installing kendo/simple/kendo_all_min_js.md)
             * [kendo.custom.min.js](installation/installing kendo/simple/kendo_custom_min_js.md)
-        * [Advanced \(module loader\)](installation/installing kendo/advanced_module_loader.md)
+        * [Advanced \(via module loader\)](installation/installing kendo/advanced_module_loader.md)
             * [Kendo Core](installation/installing kendo/kendo_core.md)
                 * [JSPM](installation/installing kendo/advanced/core/jspm.md)
                 * [Webpack](installation/installing kendo/advanced/core/webpack.md)
