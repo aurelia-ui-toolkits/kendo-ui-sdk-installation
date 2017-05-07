@@ -23,7 +23,6 @@
       * [JavascriptServices](installation/installing the bridge/Webpack/javascriptservices.md)
       * [Skeleton](installation/installing the bridge/Webpack/skeleton.md)
     * [Aurelia-CLI](installation/installing the bridge/requirejs.md)
-    * [JavascriptServices](installation/installing the bridge/Webpack/javascriptservices.md)
     * [JSPM](installation/installing the bridge/jspm.md)
 * [Next Steps](next-steps.md)
 
