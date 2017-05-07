@@ -1,16 +1,4 @@
 # Webpack
 
-1. Run `npm install --save git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (url encoded) and `mypassword` with your password 
-<br><br>
-___WARNING: If you --save or --save-dev then your password will be visible in package.json___
-<br><br>
-2. Add the following lines to the `head` section of `index.html`:
-    ```html
-    <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
-    <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.default.min.css">
-    ```
-<br><br>    
-3. Add the following import to `main.js`:
-  ```javascript
-  import "kendo";
-  ```
+1. Follow these instructions to download Kendo from NPM: http://docs.telerik.com/kendo-ui/intro/installation/npm
+2. In main.js, use `import '@progress/kendo-ui/js/kendo.all';` to load all Kendo controls. In order to load a specific control use `import '@progress/kendo-ui/js/kendo.button';`
