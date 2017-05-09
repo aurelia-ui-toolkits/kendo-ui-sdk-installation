@@ -1,28 +1,3 @@
 # Aurelia-CLI
 
-
-1. Run `npm install git+https://my.telerik.identity%40example.com:mypassword@bower.telerik.com/npm-kendo-ui.git`. Replace `my.telerik.identity%40example.com` with your telerik e-mail (url encoded) and `mypassword` with your password
-<br><br>
-**WARNING: If you --save or --save-dev then your password will be visible in package.json**
-<br><br>
-2. Install jquery: `npm install jquery --save`
-3. Add the following stylesheets to the `head` section of `index.html:
-```html
-  <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.common.core.min.css">
-  <link rel="stylesheet" href="node_modules/kendo/css/web/kendo.default.min.css">
-```
-4. Open `aurelia_project/aurelia.json` and append the following configuration to the `dependencies` section of the `vendor-bundle`:
-```json
-  "jquery",
-  {
-    "name": "kendo",
-    "path": "../node_modules/kendo/"
-  }
-```
-5.  Kendo controls can be loaded as follows:
-  ```javascript
-  import * as $ from 'jquery';
-  import 'kendo/js/kendo.button';
-  ```
-
-6. **Warning**: The error you get during the tracing process of `au run` is expected and harmless. More can be read in [this issue](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge/issues/660)
+These instructions have to be recreated from scratch due to changes in the way that Kendo is distributed. The recommended way to load Kendo is through script tags (See the chapter "Simple (script tag)") for now
