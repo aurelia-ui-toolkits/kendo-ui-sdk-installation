@@ -1,4 +1,10 @@
 {
-    "plugins": ["collapsible-menu"],
-    "pluginsConfig": {}
+    "plugins": ["collapsible-menu", "editlink"],
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://github.com/aurelia-ui-toolkits/kendo-ui-sdk-installation/tree/master",
+            "label": "Edit this page",
+            "multilingual": false
+        }    
+    }
 }
