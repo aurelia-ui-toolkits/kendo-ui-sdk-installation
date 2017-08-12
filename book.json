@@ -1,5 +1,5 @@
 {
-    "plugins": ["collapsible-menu", "editlink"],
+    "plugins": ["editlink"],
     "pluginsConfig": {
         "editlink": {
             "base": "https://github.com/aurelia-ui-toolkits/kendo-ui-sdk-installation/tree/master",
