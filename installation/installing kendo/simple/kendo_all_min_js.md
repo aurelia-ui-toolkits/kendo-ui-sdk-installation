@@ -35,6 +35,7 @@ Add the following tags to `<head>` section of index.html
    - js/kendo.all.min.js
    - js/jquery.min.js
    - the styles folder
+   
  ![img](http://i.imgur.com/Up4Gduf.png)
 
 7. Open index.html and add the following script tags
