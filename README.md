@@ -1,5 +1,5 @@
 ### Installation
-This manual explains how to install **[KendoUI](http://www.telerik.com/kendo-ui)** and how to install **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)**. Pick one installation method for the **[installation of KendoUI](./installation/installing_kendo.md)** and one for the **[installation of the bridge](./installation/installing_the_bridge.md)**.
+This manual explains how to install **[KendoUI](http://www.telerik.com/kendo-ui)** library and how to install **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)** plugin. Pick one installation method for the **[installation of KendoUI](./installation/installing_kendo.md)** and one for the **[installation of the bridge](./installation/installing_the_bridge.md)**.
 
 
 #### _Important note_
@@ -7,8 +7,11 @@ This manual explains how to install **[KendoUI](http://www.telerik.com/kendo-ui)
 The reference to **[aurelia-kendoui-bridge](https://www.npmjs.com/package/aurelia-kendoui-bridge)** points to NPM registry (as shown below) 
 
 <p align=center>
-  <img src="https://cloud.githubusercontent.com/assets/2712405/21958705/79de6d90-da82-11e6-8ba1-1fa6da6091ee.png"></img>
+  <img src="https://user-images.githubusercontent.com/2712405/30749019-13c26ade-9f80-11e7-9342-a8c329c2b911.png"></img>
+ <br><br>
 </p>
+
+
 
 
 **Note:** Use the console command
