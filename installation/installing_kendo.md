@@ -11,7 +11,7 @@
 ```
 npm install --save @progress/kendo-ui
 ```
-and as a consequence, each of our subseqently described "installation cases" (where crossed-out entries indicate newly deprecated pages)
+and as a consequence, each of our subseqently described "installation cases" (where crossed-out entries indicate just deprecated pages)
 
 <p align=center>
   <img src="https://user-images.githubusercontent.com/2712405/30750872-992470c8-9f85-11e7-8f1a-a799eccc4ce1.png"></img>
