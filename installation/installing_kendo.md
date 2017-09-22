@@ -4,9 +4,9 @@
 
 ## Important note:
 
-##### We recommend to use the recently made available NPM Packages distribution of the Kendo UI library because this installation method fits well in all different variants of building your Aurelia application and removes the need to differentiate between Kendo UI PRO and Kendo UI Core library in the installation process itself.
+We recommend to use the recently made available NPM Packages distribution of the Kendo UI library because this installation method fits well in all different variants of building your Aurelia application and removes the need to differentiate between Kendo UI PRO and Kendo UI Core library in the installation process itself.
 
-##### More precisely, our new installation process is fully compliant with Telerik's **[NPM Packages](http://docs.telerik.com/kendo-ui/intro/installation/npm#overview)** based decription of the KendoUI library installation. However to further simplify it, we will always start by installing the Kendo UI Professional NPM package:
+More precisely, our new installation process is fully compliant with Telerik's **[NPM Packages](http://docs.telerik.com/kendo-ui/intro/installation/npm#overview)** based decription of the KendoUI library installation. However to further simplify it, we will always start by installing the Kendo UI Professional NPM package:
 
 ```
 npm install --save @progress/kendo-ui
