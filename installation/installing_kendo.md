@@ -14,7 +14,7 @@ npm install --save @progress/kendo-ui
 unless when creating a SystemJS / JSPM based application, when the above command becomes:
 
 ```
-jspm install --save npm:@progress/kendo-ui
+jspm install npm:@progress/kendo-ui
 
 ```
 
