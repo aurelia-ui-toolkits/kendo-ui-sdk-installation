@@ -2,8 +2,6 @@
 
 <p>&nbsp;</p>
 
-
-
 <p align=center>
   <img src="https://user-images.githubusercontent.com/2712405/30749199-abe1a2bc-9f80-11e7-9d45-248ef4ba0646.png"></img>
  <br><br>
@@ -11,8 +9,6 @@
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
-
-
 
 
 # Kendo PRO vs Kendo Core
