@@ -8,8 +8,6 @@
 </p>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
 
 # Kendo PRO vs Kendo Core
 
