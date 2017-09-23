@@ -10,7 +10,7 @@
 
 
 
-### Make sure to carefully check the [next page](../installing%20kendo/general-comments.html).
+### Make sure to carefully check the [next page](../installing_kendo/general-comments.html).
 
 
 
