@@ -14,10 +14,10 @@ to add the Kendo UI library to the applications that uses the Kendo UI Bridge.
 
 - For SystemJS / JSPM based application, the above command becomes:
 
-```
-jspm install npm:@progress/kendo-ui
+  ```
+  jspm install npm:@progress/kendo-ui
 
-```
+  ```
 
 All subsequent sections of this **[installation](../installation.html)** as well as all tutorials are rewritten to accomodate the above described changes. As a consequence, each of our subseqently described "installation cases" (where crossed-out entries indicate just deprecated pages) became a lot simpler, as explained on subsequent pages in this section.
 
