@@ -1,3 +1,13 @@
+# _This page is deprecated_
+
+(see **[general comments](./general-comments.html)** for explanation)
+
+***
+***
+***
+
+
+
 # Bower endpoint
 
 1. Install the JSPM git endpoint plugin by issuing the command:

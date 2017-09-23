@@ -1,3 +1,12 @@
+# _This page is deprecated_
+
+(see **[general comments](./general-comments.html)** for explanation)
+
+***
+***
+***
+
+
 # Downloaded ZIP
 
 1. Install the css plugin of JSPM: `jspm install css`
