@@ -4,7 +4,7 @@
 * [KendoUI SDK](KendoUI SDK/kendoui_sdk.md)
 * [Installation](installation/installation.md)
   * [Installing Kendo](installation/installing_kendo.md)
-    * [General comments](installation/installing kendo/general-comments.md)
+    * [General comments](installation/installing_kendo/general-comments.md)
     * [Simple \(script tag\)](installation/installing kendo/simple_script_tag.md)
       * [kendo.all.min.js](installation/installing kendo/simple/kendo_all_min_js.md)
       * [kendo.custom.min.js](installation/installing kendo/simple/kendo_custom_min_js.md)
