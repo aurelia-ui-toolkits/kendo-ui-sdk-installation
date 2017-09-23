@@ -19,6 +19,7 @@
           * [downloaded ZIP](installation/installing kendo/advanced/pro/jspm/downloaded_zip.md)
         * [Webpack](installation/installing kendo/advanced/pro/webpack.md)
         * [Aurelia-CLI](installation/installing kendo/advanced/pro/requirejs.md)
+      * JSPM
   * [Installing the bridge](installation/installing_the_bridge.md)
     * [Webpack](installation/installing the bridge/webpack.md)
       * [JavascriptServices](installation/installing the bridge/Webpack/javascriptservices.md)
