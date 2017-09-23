@@ -20,4 +20,10 @@ to add the Kendo UI library to the applications that uses the Kendo UI Bridge.
 
   ```
 
-All subsequent sections of this **[installation](../installation.html)** as well as all tutorials are rewritten to accomodate thie above described changes.
+All subsequent sections of this **[installation](../installation.html)** as well as all tutorials are rewritten to accomodate the above described changes. As a consequence, each of our subseqently described "installation cases" (where crossed-out entries indicate just deprecated pages) became a lot simpler, as explained on subsequent pages in this section.
+
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/2712405/30750872-992470c8-9f85-11e7-8f1a-a799eccc4ce1.png"></img>
+</p>
+
+***
