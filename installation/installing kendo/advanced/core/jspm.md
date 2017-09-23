@@ -1,3 +1,13 @@
+# _This page is deprecated_
+
+(see **[general comments](./general-comments.html)** for explanation)
+
+***
+***
+***
+
+
+
 # [JSPM Frictionless browser package management](http://jspm.io/)
 
 

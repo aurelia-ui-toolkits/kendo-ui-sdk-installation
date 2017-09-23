@@ -1,3 +1,13 @@
+# _This page is deprecated_
+
+(see **[general comments](./general-comments.html)** for explanation)
+
+***
+***
+***
+
+
+
 # [Webpack module bundler](https://webpack.github.io/)
 
 1. Install kendo-core and jquery: `npm install kendo-ui-core jquery --save`

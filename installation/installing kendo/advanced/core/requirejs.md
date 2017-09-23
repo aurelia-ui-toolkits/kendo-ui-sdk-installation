@@ -1,3 +1,13 @@
+# _This page is deprecated_
+
+(see **[general comments](./general-comments.html)** for explanation)
+
+***
+***
+***
+
+
+
 # [Aurelia-CLI](https://github.com/aurelia/cli)
 
 1. Install kendo-core and jquery: `npm install kendo-ui-core jquery --save`
